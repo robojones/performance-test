@@ -1,0 +1,22 @@
+{
+  "name": "performance-test",
+  "version": "1.0.2",
+  "description": "Connect two EventEmitters via a socket.",
+  "bin": "index.js",
+  "scripts": {
+    "lint": "node_modules/eslint/bin/eslint.js ."
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robojones/performance-test.git"
+  },
+  "author": "robojones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robojones/performance-test/issues"
+  },
+  "homepage": "https://github.com/robojones/performance-test#readme"
+}
